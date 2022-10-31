@@ -29,10 +29,17 @@ git clone git@github.com:3190102222/Cal.git
 
 欢迎大家批评指正！
 
-## latex suite
-
-要在 obsidian 中编辑 $\LaTeX$，可以安装 latex suite 插件。
-
 ## git 与 github
 
 可以学习 [git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
+
+## markdown 语法
+
+Markdown 是一种轻量级的标记语言，可用于在纯文本文档中添加格式化元素。详见[markdown 官方教程](https://markdown.com.cn/intro.html)
+
+- [markdown 的基本语法](https://markdown.com.cn/basic-syntax/)
+- [Obsidian 内语法](https://publish.obsidian.md/help-zh/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E6%A0%BC%E5%BC%8F%E5%8C%96%E4%BD%A0%E7%9A%84%E7%AC%94%E8%AE%B0)
+
+## latex suite
+
+要在 obsidian 中编辑 $\LaTeX$，可以安装 latex suite 插件。
