@@ -42,4 +42,4 @@ Markdown 是一种轻量级的标记语言，可用于在纯文本文档中添�
 
 ## latex suite
 
-要在 obsidian 中编辑 $\LaTeX$，可以安装 latex suite 插件。
+要在 obsidian 中编辑 $\LaTeX$，可以安装 latex suite 插件以获得更好的编辑体验。
