@@ -1,3 +1,5 @@
 .obsidian/*
 未命名*
 *.pdf
+.gitignore
+*的复习题.md
