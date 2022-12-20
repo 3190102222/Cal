@@ -19,9 +19,9 @@ git clone git@github.com:3190102222/Cal.git
 同时，使用 Obsidian 导出为 pdf 也十分方便。
 
 也可以使用支持markdown语法的其他编辑器打开，如
-- vscode
-- typora
-- HbuilderX
+- [vscode](https://code.visualstudio.com)
+- [typora](https://typora.io)
+- [HbuilderX](https://www.dcloud.io/hbuilderx.html)
 
 # 其他
 
